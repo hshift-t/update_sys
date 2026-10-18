@@ -1,0 +1,8 @@
+{
+  "version": "2.0.8",
+  "build_number": 208,
+  "download_url": "https://yourwebsite.com/downloads/brick-v2.0.8.apk",
+  "mandatory": false,
+  "release_notes": "• Faster background downloading\n• YouTube 4K stream extraction fix\n• UI polish and stability enhancements",
+  "release_date": "2026-10-18"
+}
