@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "build_number": 1,
-  "download_url": "https://yourwebsite.com/downloads/brick.apk",
+  "download_url": "https://brickdownloader.vercel.app/",
   "mandatory": false,
   "release_notes": "• Faster background downloading\n• Fixed Instagram & YouTube stream parsing\n• Fresh UI polish",
   "release_date": "2026-10-18"
